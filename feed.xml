@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:71E12B7D-95D5-46AC-9717-2BF384D8C171</id>
+ <title>Page list Atom feed</title>
+ <updated>2020-07-20T19:13:19+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8CC87DAA-2C07-45F3-9B88-474EC3925305</id>
+  <title>Koklailua</title>
+  <title xmlns="urn:iweb:">Koklailua</title>
+  <in-navbar xmlns="urn:iweb:">8CC87DAA-2C07-45F3-9B88-474EC3925305</in-navbar>
+  <link rel="alternate" href="Koklailua.html"/>
+  <updated>2020-07-20T19:13:19.001+03:00</updated>
+  <content>Koklailua</content>
+ </entry>
+</feed>
